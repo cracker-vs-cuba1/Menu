@@ -1,6 +1,6 @@
 # Menú
 ## Author: Ruslan Marrero
-### Script solo con fines educativos
+### Script con fines educativos
 
 Script Menú
 
@@ -8,11 +8,11 @@ Script Menú
 Educativo
 
 
-##### Usage:
-```
-git clone https://github.com/
-cd ruslan.sh
-chmod +x menu.sh
-./menu.sh
-```
+##### Uso:
+
+ https://github.com/cracker-vs-cuba1/Menu.git
+ cd ruslan.sh
+ chmod +x menu.sh
+ ./menu.sh
+
 #################################
