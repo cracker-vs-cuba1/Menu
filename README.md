@@ -8,7 +8,7 @@ git clone https://github.com/cracker-vs-cuba1/Menu.git
 -------------------------------------------------------
 cd ruslan.sh
 ------------
-chmod +x menu.sh
+chmod +x Menu.sh
 ---------------
-./menu.sh
+./Menu.sh
 ---------
